@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627512086159",
+    "project_id": "ai-explain-697d7",
+    "storage_bucket": "ai-explain-697d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627512086159:android:58f0effd455d569babaafa",
+        "android_client_info": {
+          "package_name": "com.sameer.silentecho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCRaY3G8feNWWp7n2nn9Ogn3OpjxiYY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

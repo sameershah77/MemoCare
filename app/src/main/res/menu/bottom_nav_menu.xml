@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/svg_home"
+        android:title="Scan" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/svg_chat"
+        android:title="Ask Me" />
+</menu>
